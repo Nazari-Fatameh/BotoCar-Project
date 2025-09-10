@@ -23,3 +23,12 @@ The platform allows filtering cars by **price range** and selecting from differe
 - [React](https://react.dev/) – UI library  
 - CSS Modules – styling  
 - JavaScript (ES6+)
+
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nazari-Fatameh/BotoCar-Project.git
+2. cd botocar
+3. npm Install
+4. npm run dev
+5. Open http://localhost:3000 in your browser.
